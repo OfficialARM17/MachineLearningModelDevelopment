@@ -1,3 +1,9 @@
+------------------------------------------------------------------------------------------------
+
+Machine Learning Model Development
+
+------------------------------------------------------------------------------------------------
+
 Contains the datasets and code needed to develop both machine learning models for the sign langauge
 translation system to work as intended.
 
