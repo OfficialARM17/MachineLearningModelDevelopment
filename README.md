@@ -1,8 +1,8 @@
 
-Sign Language Translation System
+**Sign Language Translation System**
 
 
-Machine Learning Model Development
+**Machine Learning Model Development**
 
 
 This repository contains datasets and code needed to develop two machine learning models for a sign language translation system.
@@ -11,14 +11,9 @@ This repository contains datasets and code needed to develop two machine learnin
 
 Code
 
-------------------------------------------------------------------------------------------------
+hand_detection.py - This script contains code to develop a model that recognizes a hand from a camera view. The output is a TensorFlow Lite Model suitable for integration into Android IDEs.
 
-hand_detection.py
-This script contains code to develop a model that recognizes a hand from a camera view.
-The output is a TensorFlow Lite Model suitable for integration into Android IDEs.
-sign_language_recognition.py
-This script contains code to develop a model that recognizes different sign language symbols from a hand.
-The output is a TensorFlow Lite Model for use in Android IDEs.
+sign_language_recognition.py - This script contains code to develop a model that recognizes different sign language symbols from a hand.The output is a TensorFlow Lite Model for use in Android IDEs.
 
 ------------------------------------------------------------------------------------------------
 
@@ -26,12 +21,19 @@ Dependencies
 
 
 Python 3.5
+
 TensorFlow
+
 OpenCV
+
 NumPy
+
 Matplotlib
+
 Keras
+
 Scikit-learn
+
 OS
 Pandas
 
