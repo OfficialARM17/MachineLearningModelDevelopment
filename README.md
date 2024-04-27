@@ -56,11 +56,10 @@ Acknowledgments
 Datasets:
 
 Here are some repositories that I found really helpful during development:
+
 https://github.com/Mquinn960/sign-language
+
 https://github.com/syauqy/handsign-tensorflow
+
 https://github.com/pramod722445/hand_detection
 
-------------------------------------------------------------------------------------------------
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
